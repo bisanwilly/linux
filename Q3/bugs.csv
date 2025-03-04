@@ -1,2 +1,2 @@
-BUGID,DESCRIPTION,BRANCH,DEVELOPER_NAME,BUG_PRIORITY,REPOSITORY_PATH,GITHUBURL
-234,File name should contain date in header,br_1,g.cohen,3,./REPO1,...
+BugID,CurrrentDate,Branch,DevName,Priority,Description
+234,2024-03-04,br_1,g.cohen,3,File name should contain date in header
